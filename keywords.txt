@@ -1,0 +1,39 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DS1631		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+START_CONVERT		LITERAL1
+STOP_CONVERT		LITERAL1
+READ_TEMPERATURE	LITERAL1
+ACCESS_TH			LITERAL1
+ACCESS_TL			LITERAL1
+ACCESS_CONFIG		LITERAL1
+POWER_ON_TEST		LITERAL1
+
+DONE				LITERAL1
+THF					LITERAL1
+TLF					LITERAL1
+NVB					LITERAL1
+R1					LITERAL1
+R0					LITERAL1
+POL					LITERAL1
+ONE_SHOT			LITERAL1
+R0_R1				LITERAL1
+
+RESOLUTION_9BIT		LITERAL1
+RESOLUTION_10BIT	LITERAL1
+RESOLUTION_11BIT	LITERAL1
+RESOLUTION_12BIT	LITERAL1
+
+CONTINUOUS_MODE		LITERAL1
+ONE_SHOT_MODE		LITERAL1
